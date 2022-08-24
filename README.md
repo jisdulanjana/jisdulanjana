@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://twitter.com/ishan_dulanjana" target="blank"><img src="https://img.shields.io/twitter/follow/ishan_dulanjana?logo=twitter&style=for-the-badge" alt="ishan_dulanjana" /></a> </p>
 
+<p><img align="right" src="https://cdn.dribbble.com/users/99287/screenshots/3839839/work_work_work.gif" width="400" height="300" /></p>
+
 - 🌱 I’m currently learning **Programming Languages & Frameworks etc..**
 
 - 💬 Ask me about **Programming C, DBMS , DSA ,JAVA ,JS ,HTML ,CSS ,PHP...**
