@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ishan S Dulanjana</h1>
+<h1 align="center">Hello world 👋, I'm Ishan S Dulanjana</h1>
 <h3 align="center">I am a Computer Science Undergraduate Student at NSBM Green University in Sri Lanka.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jisdulanjana&label=Profile%20views&color=0e75b6&style=flat" alt="jisdulanjana" /> </p>
