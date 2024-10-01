@@ -1,44 +1,97 @@
-<h1 align="center">Hello world 👋, I'm Ishan S Dulanjana</h1>
-<h3 align="center">I am a Computer Science Undergraduate Student at NSBM Green University in Sri Lanka.</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Ishan+S+Dulanjana!; Welcome+to+my+Digital+Playground!;Where+Code+Meets+Creativity!" alt="Typing SVG" />
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jisdulanjana&label=Profile%20views&color=0e75b6&style=flat" alt="jisdulanjana" /> </p>
-
-<p align="left"> <a href="https://twitter.com/ishan_dulanjana" target="blank"><img src="https://img.shields.io/twitter/follow/ishan_dulanjana?logo=twitter&style=for-the-badge" alt="ishan_dulanjana" /></a> </p>
-
-<p><img align="right" src="https://cdn.dribbble.com/users/99287/screenshots/3839839/work_work_work.gif" width="400" height="300" /></p>
-
-- 🌱 I’m currently learning **Programming Languages & Frameworks etc..**
-
-- 💬 Ask me about **Programming C, DBMS , DSA ,JAVA ,JS ,HTML ,CSS ,PHP...**
-
-- 📫 How to reach me **jisdulanjana@gmail.com**
-
-- ⚡ Fun fact **A programmer is always a coder, but a coder may not be a programmer!**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/ishan_dulanjana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ishan_dulanjana" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/j-i-s-dulanjana-912a05214/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/j-i-s-dulanjana-912a05214/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/profile.php?id=100040356113344" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100040356113344" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/ishansdulanjana/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/ishansdulanjana/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucm0ihiw2ro7ssxqhuvwp6jw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucm0ihiw2ro7ssxqhuvwp6jw" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/9GTdeWDD" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/9GTdeWDD" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+<h3 align="center">🚀 Fullstack Developer | Problem Solver | Tech Enthusiast 🚀</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jisdulanjana&show_icons=true&locale=en&layout=compact" alt="jisdulanjana" /></p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jisdulanjana&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/jisdulanjana?label=Followers&style=for-the-badge" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/jisdulanjana?label=Stars&style=for-the-badge" alt="Stars" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jisdulanjana&show_icons=true&locale=en" alt="jisdulanjana" /></p>
+<table align="center">
+  <tr>
+    <td width="50%">
+      <h3 align="center">About Me 🧑‍💻</h3>
+      <ul>
+        <li>🎓 Computer Science Undergraduate at NSBM Green University, Sri Lanka</li>
+        <li>🌱 Constantly learning and evolving in the tech ecosystem</li>
+        <li>💡 Passionate about creating innovative solutions to real-world problems</li>
+        <li>🚀 Aspiring to make a significant impact in the tech industry</li>
+        <li>🌟 Believer in clean code, best practices, and continuous improvement</li>
+      </ul>
+    </td>
+    <td width="50%">
+      <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="100%" />
+    </td>
+  </tr>
+</table>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jisdulanjana&" alt="jisdulanjana" /></p>
+<h3 align="center">🛠️ My Tech Arsenal 🛠️</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,java,javascript,html,css,php,mysql,git,react,nodejs,python,figma&perline=6" />
+</p>
+
+<h3 align="center">📊 GitHub Analytics 📊</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jisdulanjana&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="200" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jisdulanjana&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="200" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jisdulanjana&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="200" />
+</p>
+
+<h3 align="center">🌐 Connect with Me 🌐</h3>
+<p align="center">
+  <a href="https://twitter.com/ishan_dulanjana"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/j-i-s-dulanjana-912a05214/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.facebook.com/profile.php?id=100040356113344"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" /></a>
+  <a href="https://www.instagram.com/ishansdulanjana/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
+  <a href="mailto:jisdulanjana@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
 
-## snake-eating contribution graph 🐍
-![snake gif](https://github.com/jisdulanjana/jisdulanjana/blob/output/github-contribution-grid-snake.svg)
+<h3 align="center">🏆 Achievements 🏆</h3>
+<p align="center">
+  <a href="https://holopin.io/@ishansdulanjana"><img src="https://holopin.me/ishansdulanjana" alt="@ishansdulanjana's Holopin board" width="100%" /></a>
+</p>
 
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</p>
 
+<h3 align="center">💭 Programmer's Wisdom 💭</h3>
+<p align="center"><i>"Code is like humor. When you have to explain it, it's bad." - Cory House</i></p>
 
- [![@ishansdulanjana's Holopin board](https://holopin.me/ishansdulanjana)](https://holopin.io/@ishansdulanjana)
- 
+<h3 align="center">🚀 Quick Project Highlights 🚀</h3>
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/jisdulanjana/pizza_ordering_ap.git">
+        <img src="https://images.app.goo.gl/eqocBGtmQjDK1q3RA" width="100" height="100" alt="Project 1" /><br />
+        <sub><b>Project 1</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/jisdulanjana/project2">
+        <img src="https://via.placeholder.com/150?text=Project+2" width="100" height="100" alt="Project 2" /><br />
+        <sub><b>Project 2</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/jisdulanjana/project3">
+        <img src="https://via.placeholder.com/150?text=Project+3" width="100" height="100" alt="Project 3" /><br />
+        <sub><b>Project 3</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!;Let's+connect+and+create+something+awesome!" alt="Typing SVG" />
+</div>
