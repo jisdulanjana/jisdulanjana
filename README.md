@@ -34,7 +34,7 @@
 
 <h3 align="center">🛠️ My Tech Arsenal 🛠️</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,java,javascript,html,css,php,mysql,git,react,nodejs,python,figma&perline=6" />
+  <img src="https://skillicons.dev/icons?i=c,java,javascript,html,css,php,mysql,git,react,nodejs,python,flutter,dart,firebase,figma&perline=15" />
 </p>
 
 <h3 align="center">📊 GitHub Analytics 📊</h3>
